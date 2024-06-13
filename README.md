@@ -1,9 +1,3 @@
-# Привет, меня зовут Сергей!
-
-### :man_technologist: Обо мне:
-
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в web-разработку начался в 2021 году с бесплатных курсов от RSSchool, где я прошел подготовительный и первый этап обучения. Однако дальше я не смог пройти отбор, т.к. на то время я еще не обладал достаточными знаниями. После этих курсов, я начал углубляться во frontend разработку, а именно в Javascript и React, но через 5 месяцев мне пришлось прекратить из-за начала обучения в университете. В своем вузе я изучал C, C++, C#, основные принципы ООП, алгоритмы и структуры данных. Получив эти базовые знания, я решил что хочу продолжать заниматься и прогрессировать в web разработке, из-за чего последний год активно изучаю многие актуальные технологии.
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Anisimov_Sergey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aniserg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anissereg@gmail.com)
 
 ---
